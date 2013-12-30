@@ -8,3 +8,7 @@ El nombre `kafeinados` es un homenaje a todas aquellas personas que buscan refug
   - Utilizar Maven en proyecto Swing
   - Separar en pequeños módulos las funcionalidades comunes
   - Refactorizar cuando sea necesario
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ecabrerar/kafeinados/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
