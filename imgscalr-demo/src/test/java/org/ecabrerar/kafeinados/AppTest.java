@@ -16,7 +16,9 @@ import org.junit.Test;
 import java.util.Date;
 
 /**
+ * @author ecabrerar
  * Simple test case of imgscalr 4.0 
+ * @see https://github.com/thebuzzmedia/imgscalr
  */
 public class AppTest {
 
