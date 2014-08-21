@@ -10,5 +10,11 @@ El nombre `kafeinados` es un homenaje a todas aquellas personas que buscan refug
   - Refactorizar cuando sea necesario
 
 
+#### Author
+
+* [Eudris Cabrera](https://github.com/ecabrerar)
+* [![endorse](https://api.coderwall.com/ecabrerar/endorsecount.png)](https://coderwall.com/ecabrerar)
+
+
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ecabrerar/kafeinados/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
